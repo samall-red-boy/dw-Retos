@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 50PX;
+    font-family: sans-serif;
+    font-size: 65px;
+    color: white;
+}
+.ok1{
+ width: 300px;
+ height:300px;
+ background-color: black;
+ text-align: center;
+}
+
+.ok2{
+    width: 300px;
+    height:300px;
+    background-color: black;
+    border-radius: 30px;
+
+}
+
+.ok3{
+    border-radius: 30px;
+    
+
+}
+img{
+    width: 300px;
+    height:300px;
+  
+}
